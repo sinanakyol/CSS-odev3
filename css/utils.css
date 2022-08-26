@@ -1,0 +1,37 @@
+.material-symbols-outlined {
+  color: #5f6368;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 200,
+  'GRAD' 0,
+  'opsz' 24
+}
+  
+  .btn {
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .btn-primary {
+    background-color: #1a73e8;
+    border: 1px solid transparent;
+    color: #fff;
+    margin: 0 10px;
+  }
+
+  .btn-primary:hover {
+    opacity: 0.8;
+  }
+
+  .btn-secondary {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #5f6368;
+    margin: 0 5px;
+  }
+
+  .btn-secondary:hover {
+    border: 1px solid #5f6368; ;
+  }
