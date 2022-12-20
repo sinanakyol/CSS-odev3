@@ -1,5 +1,5 @@
-https://app.patika.dev/courses/css/cssodev3
+# Google Ana Sayfası (Güncel)
 
-# CSS-odev3
+HTML | CSS
 
-Google Ana Sayfasını Tasarlamak 2
+![Google](img/ss.png)
